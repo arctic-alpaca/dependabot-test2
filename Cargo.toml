@@ -11,4 +11,4 @@ members = [
 
 
 [workspace.dependencies]
-cargo_metadata = "0.22.0"
+cargo_metadata = "0.23.0"
